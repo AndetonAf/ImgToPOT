@@ -34,3 +34,7 @@ With POT
 [//]: # (Image References)
 [image2]: ./POT/nebulosa2.png " 1024x512"
 ![alt text][image2]
+
+### Can also help you
+Script to slice Images in Unity3d
+https://gist.github.com/shadesbelow/8a6ddc54db795241f3cff539db6ea487
